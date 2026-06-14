@@ -12,7 +12,7 @@ A Smart Leave Management System integrated with Face Recognition for secure and 
 Node.js
 Express.js
 HTML, CSS, JavaScript
-MongoDB / MySQL (if used)
+MongoDB / MySQL 
 Face Recognition module (if integrated)
 ⚙️ Setup Instructions
 npm install
